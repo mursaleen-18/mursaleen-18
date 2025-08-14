@@ -1,5 +1,5 @@
 # 💫 About Me:
-Student @MANUU .<br>MCA' 26.<br>Tech Geek.<br>Web Dev Enthusiast.<br>MERN Stack Developer.
+Student @MANUU .<br>MCA' 26.<br>Tech Geek.<br>Web Dev Enthusiast.<br>MERN Stack Developer. <br>Currently diving into AI stuff
 
 
 ## 🌐 Socials:
